@@ -4,7 +4,7 @@
   // Add here
 - [ ] Specification Name, Version and download URL:<br/>
    // Add here
-- [ ] TCK Version, digital SHA-256 fingerprint and download URL:<br/>
+- [ ] TCK Version, digital SHA-256/512 fingerprint and download URL:<br/>
   // Add here
 - [ ] Public URL of TCK Results Summary:<br/>
   // Add here
